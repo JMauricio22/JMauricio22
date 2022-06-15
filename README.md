@@ -22,16 +22,12 @@ Here are some ideas to get you started:
 <a href="mailto:rodeznomauricio@gmail.com"><img alt="Dev Community" src="https://img.shields.io/badge/-rodeznomauricio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodeznomauricio@gmail.com"></a>
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  <p>
+   I'm a computer systems engineering student dedicated to web development. I am an enthusiast of javascript and all web tools as well. I am also      interested in backend development and databases
+  </p>
 </div> 
 </div>
 
