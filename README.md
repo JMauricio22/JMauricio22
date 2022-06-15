@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   <p>
-   I'm a computer systems engineering student dedicated to web development. I am an enthusiast of javascript and all web tools as well. I am also      interested in backend development and databases
+   I'm a computer systems engineering student dedicated to web development. I am an enthusiast of javascript and all web tools as well. I am also      interested in backend development and databases.
   </p>
 </div> 
 </div>
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-30100a?style=for-the-badge&logo=git&logoColor=%F05032) 
+ ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=%white)
     ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -61,6 +63,6 @@ Here are some ideas to get you started:
 
  <h3> 📈 Stats </h3>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMauricio22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMauricio22&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
