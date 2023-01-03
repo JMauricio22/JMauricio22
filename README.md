@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">I'm Mauricio Lemús 👋 </h1>
-<h3 align="center">🚀 Frontend Developer 🚀</h3>
+<h3 align="center">🚀 Fullstack Developer 🚀</h3>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/mauriciolemus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Mauricio_Lemus-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
